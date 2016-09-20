@@ -1,5 +1,5 @@
 # Social-Media-Buttons
-A HTML5/CSS3 based framework for creating big, colored and evenly sized social media buttons.  This framework runs on FontAwesome 4.6.3 and Bootstrap 3.3.7
+An HTML5/CSS3 based framework for creating big, colored and evenly sized social media buttons.  This framework runs on FontAwesome 4.6.3 and Bootstrap 3.3.7
 
 These buttons can be added to your site by downloading and linking the "style.css" file to your site, as well as Bootstrap+FontAwesome.
 
